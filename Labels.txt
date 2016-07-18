@@ -1,0 +1,4463 @@
+personlighetstrekk
+artikkel
+extrovert
+introvert
+app
+system-2
+kalori
+judging
+aggresjon
+sosial
+stress
+feeling
+sensing
+android
+infeksjon
+intuitive
+emosjon
+personlighet
+kreft
+praktisk
+substantiv
+analytisk
+logisk
+mat
+selvsikker
+thinking
+atferd
+attraktivitet
+gjennomtenkt
+karbo
+protein
+faktaorientert
+hud
+kvalme
+perfeksjonist
+system-1
+tradisjon
+interesse
+lojal
+metabolisme
+organisert
+planleggende
+sensitiv
+spontan
+angst
+depresjon
+holdning
+individualist
+nysgjerrig
+preferanse
+sjenanse
+usikker
+anemi
+besvimelse
+fett
+inflammasjon
+katt
+kreativ
+lavt blodtrykk
+rasjonell
+smerter
+stille
+svakhet
+tenkende
+tradition
+allergi
+fatigue
+forsiktig
+motivasjon
+oppkast
+perceiving
+reservert
+rolig
+sjokolade
+alkohol
+ansvarsfull
+betennelse
+blodpropp
+empati
+feber
+google play
+hodepine
+impulsiv
+kramper
+pratsom
+realist
+samarbeidende
+skeptisk
+sosialisering
+unlabeled
+utforskende
+diabetes
+energi
+energisk
+fokusert
+hjelpende
+hund
+intp
+laid-back
+realistisk
+sepsis
+sosial status
+tillit
+tiltrekning
+treg
+analyserende
+ansvar
+avslappet
+blodtrykk
+emosjonell
+gambler
+hormon
+intellektuell
+intj
+intuitiv
+ios
+kroppsvekt
+lidelse
+lone wolf
+mineral
+nevrotisisme
+sexy
+slag
+smerte
+tradisjonell
+travel
+aktiv
+antibiotika
+dating
+dedikert
+disiplinert
+dominant
+empatisk
+entj
+entp
+enzym
+fysisk trening
+glede
+glucose
+humor
+hyponatremi
+imaginative
+independent
+istp
+komfortabel
+konseptuell
+mbr
+medisin
+nyre
+objektiv
+oppmerksomhet
+personlighetstype
+smil
+systematisk
+teoretisk
+trygg
+vennlig
+abstrakt
+analyst
+anerkjennelse
+antisosial
+apati
+arv
+beinbrudd
+cpu
+dehydrering
+elektrolytt
+endringsmotivert
+entusiastisk
+esfj
+esfp
+estj
+fleksibel
+hardtarbeidende
+hjerneskade
+hjertesykdom
+hoste
+hyggelig
+infp
+isfp
+jern
+koma
+lunger
+mbti
+menti
+muskler
+o5 high
+organiserende
+puls
+rask
+respekt
+samarbeid
+sex
+svimmelhet
+thinker
+uavhengig
+uorganisk
+urinveisinfeksjon
+verdisyn
+viljesterk
+visual
+windows
+adrenalin
+alkoholisme
+all-cause mortality
+altruist
+blod
+blodsukker
+competitive
+decisive
+demens
+dna
+dominerende
+egenmelding
+emosjoner
+enfj
+enfp
+engstelse
+estp
+flirting
+forberedt
+fradrag
+gen
+hallusinasjon
+hjerneslag
+infj
+inflammation
+iphone
+istj
+java
+konformerende
+konjunktivitt
+konkurransemotivert
+konsentrasjon
+leder
+lipid
+manipulerende effekt
+mulighetsorientert
+omtenksom
+oppmerksomhetssyk
+organisering
+overbevisende
+pessimist
+planlegging
+puss
+reflekterende
+risikosky
+selger
+selvopptatt
+selvstendig
+selvtillit effekt
+sinne
+sjenert
+sukker
+tankefull
+temperament
+trening
+undrende
+uorganisert
+upartisk
+utadvendt
+utrygg
+varme
+venner
+virus
+a6 low
+akne
+app store
+appetit
+avoidant
+barn
+bekymret
+c6 low
+cancer
+dependent
+diett
+diplomat
+distraherbar
+effektiv
+empirisk
+engstelig
+erfaring
+estetisk
+explorer
+forbedrende
+forstoppelse
+frykt
+hjerteinfarkt
+hjertesvikt
+hodet kaldt
+hukommelsestap
+inspirert
+intelligens
+isfj
+javascript
+klaging
+kommunikasjon
+kvinne
+lever
+lydig
+lyttende
+musikk
+nettverk
+nyrer
+paranoid
+proxy
+relasjon
+router
+selvangivelse
+selvbilde
+selvoppofrende
+sen
+skade
+sminke
+stabil
+status
+stolthet
+svulst
+sykdom
+uselvstendig
+varm
+venn
+verbal
+accommodator
+achiever
+adhd
+albumin
+application
+avvisning
+bevissthet
+borettslag
+central route
+collaborative
+doer
+dyrehold
+eclipse
+ekteskap
+emulator
+etisk
+extraversion
+ferie
+forbedringsmotivert
+forsikring
+forskning
+forvirring
+fremtid
+frustrasjon
+gamesalad
+gener
+hemoglobin
+hjelp
+hjerterytme
+hukommelse
+hypotension
+ignorering
+immunforsvar
+immunsystem
+interaktiv
+intuition
+iron oxides
+javazone
+jernmangel
+kald
+kalori-mat
+kinesthetic
+kollektivistisk
+kommuniserende
+kompliment
+konkret
+konservativ
+kontroll
+kortikosteroider
+kriminell
+lykke
+lykkesmed
+magesmerter
+makt
+migrene
+motivert
+myers-briggs
+observant
+oksygen
+omsorg
+openness
+optimistisk
+parfyme
+payex
+pragmatist
+prososial
+recognition
+reliabel
+romantikk
+rutinert
+sata
+sensitive
+sikkerhet
+situasjon
+snill
+social
+sosialpsykologi
+steroid
+submissiv
+teknologisk
+teori
+tidsbevisst
+tilpasningsdyktig
+toleranse
+ugjennomtenkt
+usikkerhet
+utfordrende
+vekt
+vennskap
+visuell
+vitamin b12
+yrke
+a1 low effekt
+activist
+administrativ
+administrerende
+aggressiv
+aksept
+allele
+alpha-1-acid
+altruisme
+ambivalent
+amiable
+android sdk
+animalia
+art
+assimilator
+auditory
+avhengig
+bevegelse
+bioaccumulation
+bios
+blikk
+blikkontakt
+brystkreft
+c6 high
+carbohydrate
+caregiver
+chondrichthyes
+chordata
+cognitive
+conscientiousness
+converger
+decision
+dedikasjon
+delirium
+developer
+development
+diplomatisk
+disk
+diskpart
+diverger
+e high
+ekstroversjon
+elasmobranchii
+epilepsi
+epinephrine
+evolusjon
+expressive
+fakta
+fantasi
+fasting
+fet hud
+fiendtlig
+fitness
+fixed mbr
+forberedende
+forbrenning
+forhold
+fysisk
+gallestein
+gange
+gave
+gpt
+handlende
+happiness
+hensynsfull
+hiv
+hjerne
+hjerneinfarkt
+hjerte
+hukommelsessvikt
+infection
+inkontinens
+innadvendt
+intellectual
+internet
+ipad
+klage
+kobber
+kompetanse
+konfliktsky
+konsekvent
+kontrollerende
+kortpustet
+krevende
+kultur
+kunnskap
+kvinner
+lammelse
+lebestift
+ledende
+lesehest
+likhet
+liv
+lojalitet
+master boot record
+melk
+mica
+mistenksom
+moralsk
+muskel
+n high
+natrium
+nyresvikt
+omgjengelig
+opplevelse
+optimisme
+overtalelse
+payex regler
+people
+phlegmatic
+physiological
+pigment
+platform
+pliktoppfyllende
+popularitet
+protein shake
+pust
+rapport
+reaksjon
+rennende nese
+respons
+rheti
+rosa
+rutine
+ryddig
+samtale
+scientist
+security
+selvangivelse post
+selvdisiplin
+selvtillit
+sensitivitet
+skatt
+skrivende
+skuffelse
+small intestine
+sol
+sosialt motivert
+sosialt sliten
+spill
+squat
+startup repair
+stivhet
+sugar
+supporter
+svette
+svie
+sympatisk
+talende
+tarm
+tarmbetennelse
+tenner
+teoretiker
+theorist
+tilbaketrukken
+tilpass
+titanium dioxide
+to the point
+toxicity
+transfett
+ueffektiv
+ufleksibel
+ukonvensjonell
+umotivert
+upersonlig
+urinering
+uryddig
+vane
+variasjon
+vekttap
+visionary
+vitamin
+vldl
+wlan
+zink
+1993
+a1 low
+a low
+aag
+active
+active partition
+administrasjon
+agreeableness
+agria
+aktivitet
+alder
+aldring
+aloe vera
+alzheimer
+analytical
+anorexi
+ansiktsmaske
+antihistamin
+antistoffer
+anxiety
+app inventor
+apple
+arrogant
+artist
+artistisk
+assosiasjon
+atherosclerosis
+autisme
+autoconfigurl
+b12
+bakterie
+bekymring
+beskjeden
+beviskrevende
+bioaccumulative
+bismuth oxychloride
+bitter
+blodceller
+boot device
+brekning
+bridge
+c2 high
+caring
+cleanser
+confident
+confusional state
+cpa gas sms
+creator
+css
+detaljorientert
+disease
+diskusjon
+doktorgrad
+down to earth
+driver
+e1 high
+effektivitet
+egoist
+egoistisk
+eksem
+ekstrovert
+elveblest
+emmelinedommen
+environment
+ethernet
+excitement
+fedme
+feelings
+fettvev
+fiber
+film
+folat
+forgiftning
+fredelig
+funksjonell
+giddalaus
+givende
+gluten
+glutenintoleranse
+glycoprotein
+google
+graviditet
+hardhudet
+hdd
+heart attack
+helse
+hematokrit
+hevelse
+historie
+hjertefeil
+hjertestans
+hjort
+hla
+hodeskade
+hub
+hudfarge
+hvete
+hveteallergi
+hygge
+hypertension
+hyppig vannlating
+idealist
+imagination
+impulsivitet
+infarkt
+information
+initiativ
+inntrykk
+insulin
+intellekt
+interface
+intimate
+intimitet
+intoleranse
+introversion
+inventor
+investigator
+irritabilitet
+irritert hud
+isolert
+java applet
+jung
+jungian
+karbohydrat
+kind
+kjedelig
+knights dragons
+kolb
+kolesterol
+konkurranse
+konsekvens
+konsistent
+kontrollmotivert
+korrelasjon
+kortison
+krampe
+kreativitet
+kunnskapsmotivert
+kunst
+kviser
+lamniformes
+latter
+legacy
+lepper
+lidenskapelig
+likegyldighet
+liver
+logikk
+lovlydig
+lungebetennelse
+lungekreft
+mac
+magnesium
+manipulerende
+mann
+mascara
+mbti extrovert
+mechanic
+medmenneskelighet
+memory
+mening
+menn
+menneskeorientert
+menneskesky
+midje
+mistroisk
+mobil
+molekyl
+moral
+n2 high effekt
+n3 high effekt
+narcissism
+nedstemthet
+neuroticism
+nlasvc
+nlp
+nurturer
+o3 high
+omsorgsmenneske
+opphisselse
+orden
+original
+orosomucoid
+ortostatisme
+outsider
+overvekt
+pankreatitt
+passivitet
+people person
+people pleaser
+performer
+peripheral route
+planmessighet
+politikk
+pollakisuri
+practical
+prating
+preference
+presis
+prinsippiell
+promoter
+propylparaben
+protector
+psy110
+pupiller
+pustevansker
+rebelsk
+reflector
+responsibility
+rigid
+romantic
+sebum
+selachimorpha
+selvbevisst
+selvbevissthet
+selvet
+selvrespekt
+sensitiv hud
+sentinel
+sjekking
+sky
+slanking
+sta
+stable
+starch
+stimuli
+stolt
+svetting
+sykepenger
+symbol
+talevansker
+temperatur
+template
+tempo
+termisk-effekt
+think
+tinnitus
+tolerant
+toner
+tro
+trofast
+ubehag
+uetisk
+uforsiktig
+ukomfortabel
+ulydig
+underdanig
+understanding
+urin
+usentimental
+usosial
+ustabil
+utdannelse
+utdanning
+utradisjonell
+utrettelig
+utslett
+uv filter
+vegetativ
+verdsetting
+vitamin b1
+vorte
+work
+zinc oxide
+111-a
+116-a
+1977
+1999
+5 2
+a1 high
+a2 low
+abstinenser
+acceptance
+active disk
+activity
+advisor
+aftershave
+agreeable
+akvarie
+albuminoid
+alloy
+altruistisk
+amnesi
+amnesia
+amygdala
+amylose
+analyse
+androgen
+android application
+anfall
+anger
+angrende
+anstrengt
+antidepressiva
+antistoff
+apk
+apopleksi
+app id
+apple app store
+applet
+applied
+approval
+aquarium
+arbeidsnarkoman
+argumenterende
+arr
+arroganse
+artistic
+asexuell
+asiatisk
+assertive
+astma
+ataxia
+attractive
+auto config url
+autoimmun sykdom
+autoritet
+avhengighet
+avkom
+avsky
+avstand
+b-vitamin
+bakteriell infeksjon
+bakterier
+balanse
+bandwidth
+barbie
+bcd
+behavior
+beintetthet
+betydning
+binary
+bindevev
+biomarker
+black iron oxide
+blackhead
+blank hud
+blekhet
+blemmer
+blind
+blodlegeme
+blodsirkulasjon
+blodtrykksfall
+blodvolum
+blond
+blood
+bly
+body wash
+boostende
+boosting
+boot sector
+bootrec
+brautende
+browser
+brystsmerter
+c4 high
+c5 high
+c high
+caffeine
+calcium
+calm
+carbon dioxide
+carl jung
+casual
+cat
+catalyst
+cetorhinidae
+challenger
+choleric
+cholesterol
+ci 77019
+ci 77163
+ci 77491
+ci 77891
+ci 77947
+citrate
+citric acid
+closed comedone
+co2
+comedone
+community
+compliance
+concentration
+conflict
+conscientious
+consistent
+contemplative
+controller
+cooperative
+correlation
+cortisol
+creative
+credibility
+crp
+crusader
+culture
+danser
+dansing
+databruk
+date
+death
+deceptive
+delegerende
+dementia
+dependable
+depression
+depressiv
+deprimert
+designer
+desorientert
+diare
+dihydrotestosterone
+direkte
+dominans
+dopamin
+dreamer
+duodenum
+duty fulfiller
+dyrevernloven
+e1 low
+e2 low
+effekt
+egenmotivert
+egg white
+eisenoxid
+eksakt
+eksperimentering
+ektefelle
+emmeline
+emotion
+enighet
+enk
+enkeltpersonforetak
+ensom
+ensomhet
+enthusiast
+entusiasme
+etiker
+evidence
+executive
+experience
+expert
+extravert
+extraverted
+extroversion
+eyeliner
+facebook
+fagorientert
+fantasifull
+farge
+feeler
+female
+femfaktormodellen
+feminint
+feriepenger
+fiendtlighet
+filipenser
+filosofisk
+fish
+fisk
+flirt
+fokus
+forandring
+forbindelse
+forbruk
+forbrukerombudet
+forelskelse
+forfengelighet
+forpliktelse
+forpliktende
+fortelling
+forurensning
+forutsigbar
+fosfat
+foundation
+fred
+fremgang
+fremmed
+fruktbarhet
+frustrert
+fucithalmic
+fysisk aktivitet
+gambling
+genetics
+genotyp
+giftig
+giver
+gjeld
+gjerrig
+glad
+glukose
+godtroende
+gregarious
+gresspollen
+grubling
+guardian
+guid
+guid partition table
+hair
+hallusinasjoner
+handling
+hands on
+hard
+hardware
+hazard
+healer
+helper
+helping
+helsedirektoratet
+hematuria
+hemoglobinmangel
+hero
+hjernerystelse
+hjernestyrt
+hjertebank
+hobby
+hofte
+html
+hudkreft
+human
+hushold
+hydra hunters armor
+hypoaktivt delirium
+hypocalcemi
+hypochloremi
+hypochloremia
+hypokalemia
+iconoclast
+idealistisk
+ild
+immunologisk
+improvement
+impulskontroll
+individualism
+infertilitet
+infrastruktur
+initiator
+initierende
+inkludering
+innbilsk
+innekatt
+innocent
+innovator
+inspirer
+integritet
+intellect
+intelligent
+internet browser
+intim
+intimacy
+intranet faktab se
+intuisjon
+iron oxide
+isolerende
+ivrig
+jester
+jobb
+jod
+judgment
+karakter
+karoten
+keratin
+keratitt
+kidney
+kjedsomhet
+klassisk-betinging
+klormangel
+kognisjon
+kollega
+konformitet
+konkurrerende
+konsis
+konvensjonell
+kort lunte
+kortisol
+korttidshukommelse
+kosmetikk
+kosthold
+kropp
+kryssreaksjon
+kunstelsker
+kunsthater
+laktose
+langsom
+large intestine
+lav puls
+ldl
+leader
+learning
+leddgikt
+lek
+lekende
+lesjon
+leukocytter
+leverskade
+leversvikt
+levetid
+lewy-legemer
+lipophilic
+litium
+locus
+lover
+loyal
+luft i magen
+lunge
+lyd
+lysskyhet
+lyst
+lytte
+lytter
+machiavellian
+macho
+macrophage
+magesyre
+magnetite
+makeup
+maktmotivert
+malware
+mamma
+manerer
+manipulering
+marinade
+marketing
+maskulin
+materialist
+matforgiftning
+matintoleranse
+medikament
+mektig
+melancholic
+menneskekjenner
+mentor
+mestringstro
+metastase
+methylpropanediol
+mettet fett
+metthet
+mild
+mindreverdig
+miniatyr
+minne
+mistillit
+misunnelig
+moden
+moderasjon
+moderert
+modesty
+modig
+mood
+motiv
+motivation
+mottagelig
+motvillig
+myk
+mystic armor
+n1 high
+n1 low
+n2 high
+n2 low
+n3 low effekt
+n4 low
+n high effekt
+name
+narcissisme
+narcissist
+natriumklorid
+negativ
+nervevrak
+nese
+neutrophil
+normativ
+nummenhet
+nyhet
+nysgjerrighet
+o high
+objective-c
+omega-3
+omega-6
+omsorgsfull
+open-minded
+open comedone
+operasjon
+oppfattelse
+oppriktig
+optimist
+organized
+osi
+osteoporosis
+oxygen
+p-piller
+p2p
+page faults
+pancreatitis
+panikk
+panisk
+paracet
+parameter
+paranoia
+parasitt
+parforhold
+parkinson
+participant
+participative
+particle size
+partition table
+partner
+passiv
+pasta
+pathogenesis
+pavlov
+pc-spill
+peaceful
+peacemaker
+personal space
+personality
+personlig
+philosopher
+phonegap
+photoshop
+pigment brown 6
+pigment brown 7
+plasma
+pleie
+pokerfjes
+pollenallergi
+polymer
+polypeptid
+polysaccharide
+polyuri
+port
+positive emosjoner
+positur
+potet
+praktiker
+predict
+prediksjon
+prikking
+prioritering
+produkt
+profesjonell
+progesteron
+programmering
+proof
+prosaisk
+prosjekt
+psy1000
+psychology
+psykopat
+pua
+publishing
+pustestans
+quit
+raid
+rar
+realiserende
+rebel
+red iron oxide
+reflective
+regler
+relationship
+religion
+repetisjon
+rescuer
+reserved
+resistant starch
+resultatmotivert
+rettferdig
+rettferdighet
+rettigheter
+revolutionary
+rice
+risiko
+rna
+robust
+rolle
+romantisk
+rotete
+routing
+rus
+rykning
+rykninger
+sage
+samvittighetsfull
+sanguine
+saponin
+satisfaction
+scale
+schizofreni
+science
+scientific
+seeker
+sekvensiell
+selfneglect
+selvdigger
+selvfokusert
+selvkritisk
+selvmarkering
+selvsentrert
+selvsikkerhet
+selvsikkerhet effekt
+selvutslettende
+sener
+senkningsreaksjon
+sensation seeking
+sensuell
+sentralnervesystemet
+sericite
+silicate
+sint
+sjalusi
+sjokk
+skalldyr
+skapende
+skarpsindig
+skillsmisse
+skryt
+skrytende
+smak
+smidighet
+smigrende
+smsbetaling
+snillhet
+social engagement
+social styles
+solarium
+solbrent
+sosial fobi
+speiling
+spenning
+spesialist
+spytt
+stabilitet
+stivelse
+storage
+stram hud
+strategisk
+stresset
+stresshormon
+strings xml
+strukturert
+studier
+studies
+submission
+suksessmotivert
+support
+switch
+symptom
+syntese
+system
+tale
+tanke
+tanker
+tannproblemer
+teacher
+teknisk
+tett nese
+theory of mind
+thorough
+thoughtful
+thyroid
+tid
+tillitsfull
+tilpasning
+tilpassende
+timeglass-figur
+traditional
+traditionalist
+trickster
+tristhet
+tromboseprofylakse
+troubleshooting
+trust
+tung pust
+type a personality
+ubesluttsom
+udisiplinert
+uforutsigbarhet
+umoralsk
+unconventionality
+underskudd
+understand
+unik
+urea
+urinfarge
+urinstoff
+usamarbeidende
+usb debugging
+utfordring
+utfordringsmotivert
+utforskning
+utilpass
+utmattelse
+utnyttet
+utopian
+valg
+vann
+vannlating
+velferd
+vldl particle size
+wanderer
+webfilter
+whitehead
+wi-fi
+wifi
+windows boot manager
+windows registry
+winner
+writer
+xml
+ydmykhet
+yellow iron oxide
+110-a
+112-a
+113-a
+114-a
+115
+117-a
+118-a
+119-a
+120-a
+12001-26-2
+121-a
+122
+12227-89-3
+123
+124-a
+125-a
+126-a
+129
+130
+130-a
+1309-37-1
+1385rn 59
+1700 white
+1 6 2
+2-vitamin
+2009
+215-168-2
+232-122-7
+234da
+235-442-5
+2380
+257-098-5
+2 7 6
+310-127-6
+3 3 7
+401
+500hd
+51274-00-1
+63b1 white
+7787-59-9
+ s j
+ st
+a-fil
+a-fil cream
+a-fn 3
+a-menneske
+a-vitaminsyre
+a-vitaminsyrederivat
+a1 acid glycoprotein
+a1 high effekt
+a2 high
+a2 low effekt
+a3 high
+a6 high
+a 200
+a 330
+a high
+a high effekt
+a low effekt
+aberela
+abnormalpsykologi
+abnormalt
+abo
+absorbed
+abstinens
+academic
+accelerometer
+accommodating
+accommodation
+achievement-striving
+acidic drug
+acidosis
+acne vulgaris
+actin
+acting
+acute phase protein
+adapt
+adaptable
+adaptation
+adapter
+adenovirus
+adh
+adhesive
+adjuvant kjemoterpi
+adl funksjoner
+adler
+administrative
+administrator
+adminnistrere
+adolescent
+adrenarche
+adventurer
+adventurousness
+advocate
+aerobisk-trening
+aerolyst 7710
+aeronisk
+aesthete
+aesthetics
+afasi
+affect
+affective
+affirmation
+agder lagmannsrett
+agent
+ageusia
+aging
+agp
+agree
+ahppiness
+aistarter
+akoholmisbruk
+aksent
+aksepterende
+aktivitetskrevende
+alanine transaminase
+alcohol
+alcoholism
+alfa-helix
+algoritmer
+alkalisk
+alkoholforbruk
+alkoholiker
+alkoholism
+allelomorph
+alpha-amylase
+alpha-globulin
+alpha female
+alpha male
+alt
+alternativ
+altriusm
+alveoli
+amalgam
+amalgamforgiftning
+ambisjon
+ambisjoner
+ambulatory
+amd
+amino-syre
+amino acids
+aminosyre
+aminosyrer
+ammonia
+amphipathic
+amylase
+amylomaize
+amylopectin
+amylum
+anaerobic-digestion
+anaerobisk
+anaerobisk-trening
+anafylaksi
+anafylaktisk sjokk
+analogi
+analysis
+analytic
+analyze
+analyzer
+anatomi
+androidmanifest
+andy cutier
+anesthetics
+angre
+angry hostility
+angstanfall
+anion
+annerledes
+anonym
+ans
+ansiennitet
+anspent
+antagonist
+anthrophobia
+anti-authority
+anti-inflammatory
+anti-tg
+anti-tpo
+anti-virus
+antibiotic
+anticoagulant
+anticoagulating
+antigener
+antihistaminer
+antioksidanter
+antropologi
+anxious
+anxious introversion
+aparges
+apatisk
+apm
+app-submission
+app annie
+app builder
+app engine
+app inventor2
+appbreeder
+appcelerator
+appeal
+appelsinjuice
+appengine-web
+appery io
+appetite
+appetitt
+appfurnace
+application id
+appmakr
+appraiser
+appreciated
+approach
+approachable
+aptana studio
+arbeidsavtale
+arbeidsliv
+architect
+argumentasjon
+argumenterede
+argumentering
+aristocrat
+arm
+armor
+arterie
+artery
+artery inflammation
+artisan
+artritt
+asbest
+aseksuell
+asia
+asiat
+asjonell
+asp
+asperger
+assertiveness
+assessment
+ast1100
+ateisme
+aterosklerose
+atferdsendring
+atopisk dermatitt
+atopisk eksem
+attachment theory
+attention
+attraction
+attraktiv
+atypisk depresjon
+atypisk dermatitt
+audiens
+auditoriell
+auditorisk
+authority
+autoconfig
+autoimmin sykdom
+autoimmun
+autoimmune sykdommer
+autoimmunreaksjon
+autonom
+avd
+averse
+avgiftning
+avhandling
+avleiring
+avoider
+avril thorne
+avsluttende
+avtaler
+awezone
+b-menneske
+babies
+babyface
+bacterium
+bad girl
+baker
+bakerallergi
+bakgrunn
+baking
+bakteriedrepende
+bakteriell vaginose
+bandasjelinser
+bankkonto
+banning
+barberolje
+base
+basiron
+basisk
+basking shark
+bbc
+befolkningen
+behavioral analyst
+behavioral control
+behaviorism
+behov
+beinmargen
+bekjentskap
+bekymrende
+belbin
+belgfrukt
+bench press
+benmarg
+bensoylperoksid
+beskjedenhet
+beskyttende
+beslutningsevne
+besluttsom
+best-selling
+bestemt
+betakaroten
+betatt
+betenksomhet
+betennelsesreaksjon
+betnovat
+bevis
+bevisorientert
+bevissthetstap
+bibasal
+biff
+big-5
+big 5
+big five
+bilde
+bildemanipulering
+billig
+binyrebarkhormoner
+bio1000
+bio1200a
+bio1200b
+bio2100
+bio2129
+bio2140
+bio2150
+biocl
+biogene aminer
+biokjemi
+biologi
+biologisk-molekyl
+biologisk mangfold
+biologiske metoder
+biopsi
+biostatistikk
+bismoclite
+bismuth
+bismuth subchloride
+bismuthine
+bismuthyl chloride
+bit-rate
+bit rate
+bitmap
+bitrate
+black 11
+black oxide of iron
+blackout
+blader
+bld
+bleaching
+blefarospasme
+blek
+blek-hud
+blemme
+blindpassasjer
+blodcelle
+blodfattig
+blodfett
+blodig
+blodkar
+blodmangel
+blodplasma
+blodserum
+blodtap
+blonder
+blood count
+blood disorder
+blood glucose
+blood in urine
+blood plasma
+blood protein
+blyghet
+body
+body composition
+body fat
+body image
+bokstavelig
+boku
+bolig
+bolus
+bompenger
+bon vivant
+bone mass
+booste
+boot files
+boot loader
+boot mgr
+booty-call
+border collie
+boss
+bradycardia
+brain
+brain herniation
+brainstorming
+brann
+bread
+breast cancer
+brekninger
+brevoxyl
+broadcasting
+brokkoli
+bronzener
+brown iron oxide
+brugde
+brunt fett
+bry
+bsd disklabel
+bss
+bssid
+bsu
+build sdk
+buildanapp
+builder
+bukser
+butyrate
+buzztouch
+bygg
+bystander effect
+c-reactive protein
+c-rot 45
+c-schwarz 5
+c-weiss 8
+c1 high
+c1 low
+c21h30o5
+c2 low
+c5 low
+c9h13no3
+c low
+cable
+cache
+care
+carotenoid
+casein
+category
+cautiousness
+celle
+cellebiologi
+cellegift
+cellegiftkur
+cellemembran
+cellulitt
+cerebral herniation
+cerebral oaedema
+cerebral oedema
+cerebral oedemia
+ceteary alcohol
+cetearyl alchohol
+cetirizin ratiopharm
+cetorhinus
+cetorhinus maximus
+cetyl alcohol
+cfast
+change
+change agent
+channel capacity
+character
+character-driven
+charismatic
+charles darwin
+chatting
+cheerleader
+chelator
+child
+children
+chipmunk physics
+chlorbismol
+chlorooxo
+chlorooxo-bismuthine
+chlorooxobismuthine
+chlorophyll
+cholecystitis
+cholera
+cholin
+ci 77489
+ci 77492
+ci 77499
+cipralex
+circulating
+cl 77491
+cl 77492
+cl 77499
+cl 77891
+class
+classformaterror
+cliche
+client
+clock
+clock-speed
+close the deal
+closure
+clotting factors
+cloud
+cns
+co-evolution
+coach
+cocos2d
+cocos studio
+cognitive dissonance
+cognitive load
+cohort
+cold
+collaborator
+collagen
+collision
+colon
+colonic
+color
+comedian
+comfort zone
+comfortable
+command line
+commitment
+communication
+communitarian
+compactflash
+competence
+competer
+competitor
+complex
+complex species
+component
+compromiser
+comrade
+concealer
+concentrate
+concept
+concerned
+conductor
+conduit mobile
+confusion
+conjunctiva
+conjunctivae
+conjunctivitt
+connector
+connotation
+conscious
+consequence
+constant improvement
+constipation
+construct
+consumption
+contrarian
+control
+controlling
+controversy
+conventional
+conversation
+cooler-master
+coordinator
+copper
+copyright
+cor
+corn
+corynebakterier
+counselor
+courting
+cpa-gas
+cpa sms
+cpu-cache
+cpu-socket
+cpu-thread
+crohns sykdom
+crossplatform
+crystalline
+csd
+curiosity
+cushing
+cushingoid
+cvs
+cydia
+cyklosporin
+cyster
+cytokin
+cytoskjelett
+d-dimer
+dakakommunikasjon
+dangerous
+dans
+dansegulv
+dansende
+dark
+darwin
+data
+data-bus
+data-transfer
+data packet
+databaser
+databasesystemer
+datakommunikasjon
+datalingvistikk
+datamaskinarkitektur
+datastrukturer
+dates
+dato
+david gross
+day game
+deadlift
+deadline
+deal
+death rate
+debug mode
+defensiv
+defiisjon
+defined
+definert
+definition
+deflasjon
+degenerasjon
+deja vu
+deliberation
+delusjon
+democrat
+den rette
+denial
+denosumab
+dentologi
+dependence
+dependency
+depotfett
+depressed
+depressive
+dermatitis
+dermatitt
+dermatologi
+dermatoskop
+desentrering
+design
+desire
+desmosome
+desquamation
+details
+detaljert
+detaljorienter
+detective
+deterrence theory
+developing
+device
+devil
+dextrin
+dht
+diablo 3
+diagnose
+diarrhea
+dieisen trioxid
+dietary fiber
+diffusion
+digital teknologi
+diiron trioxide
+dioksin
+dip
+disabilities
+disaccharide
+disapproval
+disciplin
+discipline
+discussion
+disiplin
+disk activity
+diskmgmt
+disorder
+displacement
+disruptive selection
+distracting
+dma
+dmsa
+dobbeltsyn
+document
+dog
+dogmatisk
+dogmatisme
+dominate
+down-to-earth
+dragon slayer
+dragonflame armor
+dramaqueen
+dramatisk
+drapsceller
+dressing
+drifter
+drikke
+drikking
+drivende
+drug
+drugs
+drukning
+drypp
+dugnadsarbeid
+duodenalbiopsi
+duping delight
+dutifulness
+dybde
+dynamisk
+dynamism
+dyp
+dyr
+dyrebeskyttelsen
+dyreelsker
+dyrepleier
+dyrevern
+dysartri
+dysgeusia
+dyspepsia
+dyspnea
+dysuria
+e2 high
+e3 effekt
+e3 high effekt
+e4 high
+e 172
+e low
+easy-going
+eat
+ecotoxicology
+eczema
+edtp
+eeg
+effektskapende
+effort
+efi
+egalitarian
+egg
+ego
+egocentric
+egoist-altruist
+egosentrisme
+eiendom
+eiesyk
+eisenkraut-extrakt
+eisenoxide
+eisenoxidhydrat
+ekg
+ekman
+eksentrisk
+eksfoliering
+ekspektorat
+eksperiment
+eksperimenterende
+eksponering
+ektropion
+electrolyte
+electronic
+elegant
+elektrolytter
+elektromagnetisme
+elektronikk
+elevated command
+elimineringsdiett
+elitist
+elvtillit
+emalje
+emdr
+emmelinesaken
+emotion reading
+emotional
+emotionality
+emotions
+empathy
+empathy-altruism
+empiricism
+encefalopati
+endorphins
+endring
+energetic
+energimangel
+energy
+energy metabolism
+engage
+engager
+engasjement
+enneagram
+enslig
+entertainer
+enthusiasm
+enthusiastic
+entropion
+entusiast
+entydig
+envisioner
+enzyme
+enzymer
+epiduo
+epitel
+erfaren
+erfarende
+erfaring effekt
+erratic
+error
+erythrocyte
+erytroaplasi
+erytrocytt
+esata
+esata-600
+escitalopram
+eskalering
+ester
+esters
+estetikk
+estrogen
+ethic
+etikk
+etnologi
+etteraping
+ettergivende
+ettertraktet
+euvolaemia
+eventyr
+every person
+everyman
+evice
+evolusjonsbiologi
+evolusjonshistorie
+evolutionary fitness
+examen
+exaptation
+excitement seeking
+expectation
+exporting
+exposure
+express
+expression
+expressiv
+extracellular
+extracellular-fluid
+extracellular fluid
+extraversive
+eye contact
+eye pencil
+eye shadow
+eyewitness
+eysenck
+eysneck
+face
+facial expression
+facultatum
+fag
+fagforening
+fairness
+fake
+faktura
+fall
+false confessions
+falsk
+familieliv
+fantasirik
+fantasy
+fare
+farmasi
+fasett
+faslodex
+fast fett
+fast food
+fat-vs-sugar
+fatty
+fatty alcohol
+fearfulness
+featured
+fecundity
+feiring
+fellestrekk
+feltteori
+femar
+feminine
+fenotyp
+fenotype
+feo
+ferge
+ferric oxide
+ferrosoferric oxide
+ferrous-ferric oxide
+festetomt
+festing
+fettcelle
+fettdepot
+fettmolekyl
+fettprosent
+fettstoff
+fettsyre
+fibrinogen
+fieldmarshal
+figur
+filosofi
+filterbriller
+finland
+finnmark
+firewall
+firma
+fish oil
+fisker
+fisking
+fixation
+fixed disk
+fixmbr
+fjern
+flaming
+flammer
+flass
+flassende hud
+flassende hus
+flassing
+flau
+flauhet
+flaxseed
+fleksibilitet
+flexibility
+flink
+flowers of zinc
+fluor
+fluorine
+flurry
+fly
+flytende fett
+fobi
+fobisk
+folatmangel
+folk
+folketrygdloven
+food
+food chain
+fool
+forandrende
+forbedring
+forceful
+fordeler
+forelder
+foreldre
+forestillelse
+forever living
+forfengelig
+forklaring
+forlegen
+form
+formell
+formell modellering
+fornuftig
+forsikrende
+forsikring katt
+forsker
+forskerutdanning
+forskrift
+forstyrrende
+forsvar
+forsvarsmekanisme
+fortid
+forventning
+fossil
+foto
+fovirring
+fox
+fracture
+fractures
+fragmin
+frame
+framing
+fratrekk
+freedom
+freeware
+frekk
+fremgangsmotivert
+fremoversynt
+fremtidsplaner
+fremtidsrettet
+frequency
+frequency bandwidth
+freud
+frie radikaler
+friend
+friendly
+friendzone
+frihet
+fristelse
+fritid
+frontal lobe
+fructose
+frysing
+fsb
+fucidinsyre
+functional
+funderende
+fylkeslegen
+fylkesmannen
+fys-mek1110
+fys1120
+fys1210
+fysikk
+fysiologi
+fysiologisk stress
+fysisk-trening
+gaba
+gait
+game
+game-changer
+game of trust
+gamesalad arcade
+gamma-gt
+gastronomi
+gaze
+geek
+geiping
+gender
+gene flow
+gene transfer
+generell
+generous
+genetic assimilation
+genetic drift
+genetic hitchhiking
+genetikk
+genetisk-kode
+genetisk variasjon
+genfeil
+genitalia
+genome
+genuine
+gerald m phillips
+ggt
+ggtp
+gigabit
+git
+gite
+github
+giving
+gjenkjenning
+gjennomsnitt
+gjerdeloven
+glamour
+glamourelskende
+gledesmotivert
+glemsom
+glimmer
+globular protein
+globulin
+glu
+glucagon
+glutenfri kost
+glutenfrie havregryn
+glutenfrie meltyper
+glutenfrie produkter
+glutenfritt bakverk
+glutenfritt kosthold
+glutenfritt mel
+glutensensitivitet
+glycerin
+glycerine
+glycogen
+glycol
+glycoside
+glycosidic bond
+gmail
+godteri
+goethite
+golden mica
+good morning
+gpu
+granulocytter
+graphical
+graphics
+gravid
+great mother
+greed
+greed avoidance
+gregor mendel
+gretten
+group selection
+growth hormone
+grublende
+grunnkurs i biologi
+gruppe
+gruppearbeid
+gruppearheid
+gtp
+gullibility
+gulrot
+guru
+habitat
+habits
+hai
+halsbrann
+handlinger
+haplotype
+happy
+hard disk
+hard drive thrashing
+hard fault
+hard faults
+hard working
+harddisk
+harmonisk
+harmonizer
+havre
+heart
+heart-attack
+heart disease
+heavy meta
+heavy metal
+hedonism
+helblod
+helhet
+helhetsorientert
+helkorn
+hello purr
+helpful
+helsehjelp
+helsenorge
+helsepsykologi
+helsevern
+helsevesenet
+hematite
+hematocrit
+hematom
+heme-gruppe
+hemmelighetsfull
+hemolytisk anemi
+hemorrhagic stroke
+hensikt
+hensyn
+heparin
+hepatocyte
+herding
+heredity
+heritage
+herming
+herniation
+herpes simplex
+hesitant
+hest
+heterozygote
+hexaco
+high-achieving
+high-amylose
+hijacker
+histamin
+histrionic
+hjelpe
+hjelperceller
+hjem
+hjemme
+hjerneceller
+hjernehinne
+hjernevev
+hjerteaktivitet
+hjerteattack
+hjerteproblem
+hjerteproblemer
+hjertestopp
+hjertestyrt
+hjertevsikt
+hla-a
+hla-b
+hla-c
+hla-dp
+hla-dq
+hla-dq2
+hla-dq8
+hla-dr
+hofter
+holde ord
+holder ord
+holdninger
+holy fool
+homeopati
+homeostaseteorien
+homologous
+homozygote
+honds on
+honesty
+honesty-humility
+honning
+honorar
+hormonbehandling
+hormonforstyrrelser
+hormonprevansjon
+hospital
+host
+hot-swapping
+hound
+hovedkort
+hovne bein
+hpv
+hudkrem
+hudormer
+hudsykdom
+hudutslett
+humanity
+humans
+humility
+humoristisk
+hundedommen
+hundehold
+husleielov
+hval
+hverdagen
+hvetemel
+hvetestivelse
+hvite blodlegemer
+hvitt fett
+hybrid
+hydrocarbon
+hydrogenated oil
+hydrophilic
+hyperactive
+hyperclycemia
+hypercornification
+hyperglycaemia
+hyperglykemi
+hyperinsulisme
+hyperkeratinization
+hypersensitivitet
+hypersensitivity
+hyperthyroidisim
+hypnose
+hypoalbuminemia
+hypocalcaemia
+hypocalcemia
+hypocaliumi
+hypofyreose
+hypoglycaemia
+hypoglykemi
+hypokalaemia
+hypokalemi
+hypomagnesemi
+hyponatraemia
+hypotalamus
+hypotese
+hypothesis
+hypovolemia
+hypoxia
+i senga
+ia-virksomhet
+ibs
+ibuildapp
+ibuildapps
+ibuprofen
+icon
+ide
+idea
+idealistic
+ideer
+identity
+idoform
+igf-1
+image
+immun-respons
+immun-system
+immunosuppressive
+impartiality
+impotence
+impotens
+improver
+impuls
+impulse buy
+imulskontroll
+in-app advertising
+inactive partition
+inaktivitet
+indecision
+independence
+indication
+indie
+indifference
+individ
+individualistic
+individualistisk
+individuality
+inducement
+inf1000
+inf1010
+inf1050
+inf1060
+inf1080
+inf1100
+inf1300
+inf1400
+inf1820
+inf2080
+inf2140
+inf2220
+inf2270
+inf2440
+inf2810
+inf2820
+inf3100
+inf3110
+inf3120
+inf3151
+inf3170
+inf3230
+inf3331
+inf3510
+inf3580
+inf3800
+inflammatory
+inflexible
+informasjon
+information rate
+ing3190
+ingrediens
+inhalation
+innelukket
+innovativ
+inntekt
+inquisitive
+ins
+insatiable
+insecure
+insoluble
+insoluble fiber
+insomnia
+inspirasjonsdrevet
+inspiration
+inspirational
+inspirerende
+instinkt
+insulinresistans
+int
+integrity
+intens
+intensitet
+interdependence
+interesser
+interessert
+interested
+interleukin-6
+intermittent fasting
+intern
+internal dialogue
+internasjonal
+internet settings
+intestinal infection
+intracellular water
+intravascular
+intrinsic
+introspection
+introspective
+introspeksjon
+introversjon
+introvert-extrovert
+introverted
+inward
+ios sdk
+iphone dev sdk
+ipilimubab
+ipod
+iridosyklitt
+iron black oxide
+iron ferrit
+iron hydroxide oxide
+iron yellow oxide
+irrasjonalitet
+irrasjonell
+irrationality
+irritabel tarm
+irritasjon
+irritert
+isolasjon
+isolated
+isopren
+isotretinoin
+itunes
+ivan-pavlov
+ja-menneske
+jakt
+java plugin
+jeffrey ullman
+jernforgiftning
+joker
+jomfru
+jomfruelighet
+jovial
+json
+jsp
+judge
+judgement
+juletre
+jvm dll
+kaldsvetting
+kalender
+kaliglimmer
+kalorier-snacks
+kalsium
+kapabel
+karakterdrevet
+karakteristikk
+karaktermotivert
+karbo-tilberedt
+karma
+karriere
+kasein
+kastrasjon
+katabolisme
+katalysere
+kattehold
+kcal
+keratinization
+keratinocytes
+keratinous
+ketchup
+ketone
+keystore
+kindle
+kinesics
+kinestetisk
+king
+kitty genovese
+kjangser
+kjemi
+kjemisk-reaksjon
+kjenning
+kjm1001
+kjole
+klagende
+klageordninger
+klagesak
+klagesaksbehandling
+klapping
+klesstil
+klokkehastighet
+klor
+kloramfenikol
+klorofyll
+kloroplast
+klumsete
+koagulasjonsevne
+kognitiv dissonans
+kokain
+kolikk
+kollektivist
+komfort
+kommanderende
+kommunal
+kommuniksjon
+komparativ
+kompetansekrav
+kompetent
+komplimentere
+komplimenterende
+koncensjonell
+kondisjon
+kone
+konflikt
+konfrontasjonssky
+konfronterende
+konkretiserende
+konsekvenser
+konsentrasjonsevne
+konsentrert
+konsept
+kontaktallergi
+kontrollbart
+kontrollert
+koordinasjon
+kortikoider
+kosttilskudd
+krampeanfall
+krav
+krebs cycle
+kreftmedisin
+kribling
+krig
+krim1000
+krim1300
+krim2000
+krim2101
+kritisk
+kromoglikat
+kromosom
+kronisk uopplagt
+kroppstemperatur
+kroppsvekts
+krum rygg
+krydder
+kryssallergi
+krystall
+krystallografi
+kulturell
+kulturell bakgrunn
+kunnskapsopptak
+kunstnerisk
+kurver
+kvantitativ
+kvelning
+kvelningsfornemmelse
+kvittering
+kynisk
+kyss
+laktat
+laktoseintoleranse
+lamna
+lamna nasus
+lamnidae
+langsiktig
+language
+laron syndrom
+laserbehandling
+lat
+lavkarbo
+law obedience
+laws
+lba
+leaf
+league of legends
+learned helplessness
+leaves
+legacy games
+legacy web game
+legume
+leken
+lekenhet
+leking
+lektyr
+lengsel
+lepomade
+lesebriller
+lesing
+leu
+leukocyte
+leukocyttene
+lever i nuet
+liar
+liberalisme
+lidenskap
+lie
+lie detection
+life
+lignin
+likegyldig
+likhet effekt
+likt
+limbic
+linkage
+lipid-hypothesis
+lipid hypothesis
+lipophilic compound
+lipoprotein
+listen
+lite smak
+lite version
+liver transplant
+livlig
+livserfaring
+livsform
+livsglede
+livskvalitet
+livsmening
+locationsensor
+locked in
+locked in syndrome
+locus of control
+logic
+logical
+logiske metoder
+lol
+lonely
+lotion
+lov
+loved one
+low-maintainance
+loyalist
+lsd
+luftansamlinger
+luftveisinfeksjon
+lukket
+lukt
+lungeebolisme
+lungeinfeksjon
+lydighet
+lymfecelle
+lymfekjertel
+lymfeknute
+lymfocytt
+lys
+lyster
+lytting
+m r
+macbook
+macrocytic anemia
+macroevolution
+mafia
+mageknip
+magician
+maginative
+magnesiummangel
+main xml
+mainstream
+maize
+makromolekyl
+maksimerende
+maleri
+malicious
+maling
+maltose
+mammalske celler
+man in the browser
+manager
+manipulasjon
+manipulate
+manipulating
+manualproxies
+margarine
+markering
+masculine
+massasje
+mastergrad
+mastermind
+mat-inf1100
+mat-inf3600
+matallergi
+matchmaker
+matematisk logikk
+materialism
+materialisme
+materialistisk
+maverick
+mayonnaise
+mbv
+mbv1020
+mci
+mcv
+medgift
+medicine
+medisinfag
+medisinforsikring
+meditasjon
+mek1100
+mekanikk
+melancholy
+melanin
+melanocytter
+melkeprodukt
+melkesukker
+memories
+mendel
+meninger
+menneske
+menneskerett
+menneskerettsloven
+mental svikt
+mentally quick
+mentalt stress
+merking av gluten
+merverdiavgift
+mesmer
+mestrende
+mestring effekt
+meta-model
+metabolism
+metabolite
+metafor
+metastatic cancer
+metode
+metodisk
+mgd
+mhc-molekyler
+micagroup minerals
+michael roizen
+microcomedone
+microevolution
+microorganism
+military press
+milk
+miniatyrmodeller
+mirroring
+misbruk
+misfit
+misplaced trust
+mistrivsel
+mit app inventor
+mitb
+mitokondria
+mobile store maker
+mobileapploader
+modeling
+modell
+modellering
+modenhet
+momentum
+money
+monoclinic
+monosaccharide
+morgen
+moromotivert
+morsom
+mortality
+mortality rates
+mot
+motarbeidende
+motherboard
+motivasjonsmangel
+motivator
+motorsykkel
+msd
+mtu
+muggsopp
+mulighet
+muligheter
+multi-tasking
+multiplier
+multippel sklerose
+multivariable
+murder
+muscle growth
+muscles
+muscovite mica
+music preference
+musician
+musikalsk
+musikksjanger
+muskelmasse
+muskelsvakhet
+muskeltap
+muskovit
+mustikkstil
+mutasjon
+mutism
+mva
+myappbuilder
+myoglobin
+myokarditt
+myosin
+myse
+mystic
+mystical
+n1 high effekt
+n1 low effekt
+n3 high
+n3 low
+n4 high
+n5 high
+nacl
+naive
+nakkestivhet
+narsisissme
+narsissisme
+narssissist
+nasopharynx
+natriummangel
+nattehoste
+natural iron oxide
+natural selection
+naturelsker
+naturlig
+nausea
+nedbrytning
+nedtrykt
+need
+negativitet
+negl
+negler
+neo-darwinism
+neo pi-r
+nerd
+nerve
+nerveimpuls
+nerver
+nerveskade
+nerveskader
+nervesystem
+nervesystemet
+net bit rate
+net bitrate
+netcom
+nettdating
+nettdating no
+network adapter
+network bridge
+neuroglycopenia
+neuropathy
+neurotoxicity
+neurotransmitter
+neutropenia
+nevrologi
+nevropati
+nevrotisk
+nikotin
+nisse
+nit
+nitritt
+nlasvc parameter
+nocturnal
+non-curious
+nook
+nordisk
+norepenephrine
+norge
+norm
+normal distribution
+normert
+norsk
+nostalgi
+nsaid
+nukleotid
+nutrition
+nyreskade
+nysing
+nystagmus
+nytelse
+nytte
+o1 high
+o1 low
+o2 high
+o2 low
+objective thinker
+observasjon
+observation
+observe
+observed
+observer
+observerende
+obsessed
+obstructive jaundice
+off-beat
+offbeat
+offense
+offensiv
+offentlig
+oksidering
+oksygenmangel
+oksygenopptak
+oligosaccharide
+olive oil
+olivenolje
+olje
+oljete hud
+omega
+omega-3-fettsyrer
+omega-7
+omega-9
+omgivelser
+omtanke
+omtenksomhet
+operativsystemer
+opiat
+opinions
+oppdagelse
+oppfatning
+oppfattende
+oppfinnsom
+oppfyllende
+oppmerksomhetssky
+oppmerksomhetssvikt
+oppskrifter
+oppstemt
+opptakskrav
+opptatt
+optimist-pessimist
+orchestrator
+order
+orderliness
+oregano
+organic
+organization
+organize
+orientation
+orientering
+originality
+orignal
+orm
+orphan
+oslo tingrett
+osmolality
+osmose
+ost
+othercentricism
+outlaw
+overaktiv
+overbevisning
+overbevist
+overdanig
+overdose
+overhead
+overhydrering
+overlay
+overlevelse
+overraskelse
+overreagering
+oversiktlig
+overtalende
+overtaling
+overthinking
+oxidation
+oxidative stress
+oxyhemoglobin
+oxyhydroxides
+oxytetracyklin
+package explorer
+page file
+pal
+palm oil
+palmeolje
+pan
+panne
+pantoprazole
+paper
+paraben
+paracetamol
+paralle systems
+parallell
+paralysis
+parathyroid hormone
+parent
+parenteral nutrition
+participate
+parties
+partition
+partition map
+passion
+password
+paste
+pathogen
+patient
+patogen
+paul ekman
+pause
+payex ferie
+payex mobil
+payment method
+payment process
+paypal
+peak bit rate
+pearl super supreme
+pendling
+pengegave
+pengemotivert
+penger
+people-person
+people-pleaser
+people-skills
+people master
+people mastery
+people reading
+peopleoriened
+peoplesmart
+peopple person
+pepsin
+peptid
+peptider
+pepto bismol
+perceived
+perception
+perfectionist
+perfectionistic
+perfeksjon
+perfeksjonisme
+peripherial route
+perl
+permissions
+persecerence
+persepsjon
+perserverer
+persistence
+person
+personal boundaries
+personalities
+personality test
+personfradrag
+personinntekt
+personlighetstest
+personlighetstyper
+personorientert
+perspective
+perspektiv
+persuader
+pesing
+pessimisme
+pessimistisk
+peter
+petimeter
+petroleum
+phenazopyridine
+phenomenon
+phillip g zimbardo
+phillips
+philosophers wool
+phone
+phospholipid
+php
+phrase
+physical
+physical exercise
+physical memory
+piaget
+pica
+picture
+pigment black 11
+pigment red 101
+pigment white
+pigment white 4
+pigment white 6
+pigment yellow 42
+pigment yellow 43
+pilgrim
+pilosebaceous
+pioneer
+plakk
+planner
+plante
+plasma-natrium
+plasma cholesterol
+plasma level
+plasma osmolality
+plasma protein
+plasmapheresis
+plateepitelcarcinom
+pleasant
+pleasent
+pleasing
+plegmatisk
+pleo chelate
+pleura
+pleuraeffusjon
+pleurahulen
+pleuritt
+plikttroskap
+plugin
+pneumonia
+poesi
+poetisk
+politician
+politisk
+polymorfisme
+polymorphic gene
+polymyxin
+ponder
+pons
+pop
+popular
+popularity
+populist
+posering
+posisjon
+position of trust
+posttraumatic growth
+potassium
+potatoe
+power supply
+powerbroker
+practitioner
+pragmatisk
+prakttisk
+predator
+prediction
+predictor
+prednisolon
+prednison
+preening
+prefrontal cortex
+pregnancy
+preople oriented
+presisjon
+press
+prestasjon
+prestasjonsstreben
+prestisje
+pricing
+pride
+primary partition
+prinsipp
+prion
+prippen
+privat
+private
+pro
+probiotika
+problem
+problemer
+problemsolver
+probnp
+procastination
+prodprosent
+professional
+professor
+profit
+progeny
+programmer
+programmerer
+project wiki weaver
+projection
+prokaryote
+promise
+promotion
+propinquity
+propinquity effect
+propyl
+prorotype
+prosocial
+prospector
+prostate
+prostetisk-gruppe
+protease inhibitor
+protein-kompleks
+protein binding
+proteinfabrikken
+proteininnhold
+proteinpulver
+prothrombin
+prototype
+proud
+provosere
+provoserende
+proxemics
+proxy settings
+pseudobulbar palsy
+pseudohexagonal
+psoriasis
+psy1100
+psy1101
+psy2010
+psy2401
+psy2600
+psy4300
+psychological
+psychologist
+psykoanalyse
+psykolog
+psykologi
+psykologisk likhet
+pt-inr
+pth
+pts
+pubertet
+pudder
+pullulanase
+pullup
+pulmonary oedema
+punishment
+punktlighet
+purge
+purpose in life
+push notifications
+pushup
+pushy
+pusteproblem
+pusteproblemer
+pustestopp
+pynt
+pynting
+pyridium
+python
+quadriplegia
+quality
+queen
+questionable
+questions
+quick
+quiet
+r-drive
+radiasjon
+radical
+radikal
+railroad
+randomly assigned
+rankl
+rase
+rasjonalisme
+rasjonalitet
+rasjonelt
+rating
+rationality
+rationalization
+rcoai
+rcoan
+rcoei
+rcoen
+rcuai
+rcuan
+rcuei
+rcuen
+reaction formation
+reading
+reaksjonsevne
+real life
+realiabel
+realisme
+reasonable
+rebuild bcd
+recall
+recessiv
+reciprocal
+recognized
+recov tools
+recovery environment
+redsel
+redusert bevissthet
+refined carbohydrate
+reflect
+refleksjon
+reflektert
+reflektiv
+reformer
+regedit
+reggae
+regular
+reise
+reiseavstand
+reisende
+reisevei
+rejection
+rektum
+release
+relevans
+reliabilitet
+relief
+religious
+reluctant
+remember
+remnant cholesterol
+repair console
+reparasjon
+repeater
+repetering
+repression
+reproduction
+reputation
+research
+researcher
+respektmotivert
+respirasjonsfrekvens
+respiratory arrest
+respiratory disease
+respiratory tract
+responsible
+responsivitet
+restless
+resturin
+result oriented
+resultat
+resultatorientert
+resursstyrke
+retrogradation
+rettfremhet
+revenue
+rgular
+rhabdomyolysis
+ribbe
+rifadin
+rifampin
+rikdom
+rimactane
+ringer
+ripple
+risikoatferd
+rloai
+rloan
+rloei
+rloen
+rluai
+rluan
+rluei
+rluen
+roaccutan
+roaming
+robin hood
+rock
+role model
+rollespill
+romance
+romanse
+romanticism
+rosmarin
+rot
+rotes
+rouge
+rovio
+row
+royal flame
+rs1
+rs3
+rs4
+rubs
+rug
+ruler
+rules
+run
+run as administrator
+rundbrenner
+rusmisbruk
+ryddighet
+rygg
+ryggmargsskade
+rykte
+rynker
+rytme
+s96
+sadist
+saint
+saksbehandling
+sales
+salivary amylase
+salmonella
+salt
+salts
+samarbeidsvillig
+samfunn
+samfunnsvit
+sammenheng
+samvittighet
+sannhet
+sannsynlighet
+sansing
+sansning
+sata-600
+sata-600-raid
+sata-io
+saturated fats
+sau
+scholar
+school
+schwarz
+scientifically
+scoai
+scoan
+scoei
+scoen
+scripting
+scuai
+scuan
+scuei
+scuen
+sdk adt
+seafoam armor
+seattle clouds
+secure boot
+seed
+seeking
+seizure
+seksualitet
+seksuelt
+selective sweep
+selenocysteine
+self
+self-awareness
+self-confidence
+self-consciousness
+self-discipline
+self-efficacy
+self-reported
+self view
+selfless
+selskapssyk
+selv
+selvdisiplinert
+selvforbedring
+selvkontroll
+selvkritiserende
+selvmarkerende
+selvmord
+selvoppfatning
+selvoppofring
+selvrespekterende
+selvsikker effekt
+selvsikkert
+selvstendighet
+semester
+sending
+senkning
+senna
+sennep
+sensation
+sensitiv hud effekt
+sensitv
+sensor
+sensory experience
+sensualist
+sentimentality
+sentinal
+septic shock
+sequalae
+serial
+sericite gms-c
+sericite mk-a
+sericite mk-b
+serier
+serious
+serotonin
+serum albumin
+serum interleukin 6
+serum sodium
+service
+service provider
+servicemenneske
+sesamolje
+settings
+sex-provocative
+sex appeal
+sexual selection
+sexuality
+sgpt
+shallow
+shaman
+shimmer
+shiny
+shy
+siadh
+sicometgelb
+sideloading
+signal
+signing
+sikker
+sikkerhetsmotivert
+sikkerhetsorientert
+silence
+sincere
+sincerity
+sindig
+sinn
+sinna
+sion
+siteadvisor
+sitrat
+sitronjuice
+sjal
+sjekke opp
+sjelden
+skam
+skin
+skin absorption
+skjelett
+skjelving
+sklerallinser
+sko
+skravling
+skuldre
+skulptur
+skyld
+sladder
+slakt
+sleep
+sleepiness
+slim
+slimhinne
+slitenhet
+sloai
+sloan
+sloei
+sloen
+slow
+sluai
+sluan
+sluei
+sluen
+small talk
+smart
+smell
+smertestillende
+smil effekt
+smile
+smisking
+smykker
+snacks
+snakeskin armor
+snegeliggende
+soapstone
+sociable
+social exchange
+social introversion
+social network
+social participation
+social psychology
+social sciences
+social skills
+social support
+society
+socio-demographic
+soft
+software
+solbrent hud
+soldier
+solforbrenning
+solidarisk
+solidaritet
+solitude
+solkrem
+soluble fiber
+solvent
+somac
+somatisk
+somniosidae
+somniosus
+somnolens
+sopp
+sosiabilitet
+sosial kompetanse
+sosial kontroll
+sosiale antenner
+sosiale behov
+sosiale grupper
+sosiobilitet
+sound
+source criticism
+soyasaus
+spartan
+spartansk
+spasme
+specialist
+speciation
+species selection
+specific gravity
+speech
+spelt
+spending
+spennende
+spesifikasjon
+spi
+spindelvevshinnen
+spise
+spisse
+split-brain
+splitter
+sporulation
+spouse
+sprite
+spy
+spyware
+squaliformes
+stability
+stackoverflow
+stafylokokker
+stamming
+startup
+startup repair cd
+state machine
+statens helsetilsyn
+station
+statistical
+statsvitenskap
+stavbakterier
+steadfast
+steinhjerte
+steking
+stemme
+stemmer
+stemning
+stereotyp
+sterk
+steroidhormon
+sterol
+stilig
+stillhet
+stillingskode
+stimulating
+stimulus
+stipendiat
+stiv
+stoicism
+stolt effekt
+straff
+straightforward
+straightforwardness
+strangers
+strategic
+streptokokker
+stresshormoner
+strive
+stroke
+strong-willed
+structure
+struktur
+student
+studerende
+studiefag
+study
+stv1000
+stv1100
+stv1200
+stv1201
+stv1300
+stv1400
+stv2200
+stv2400
+styrke
+subjektiv
+sublimation
+success-driven
+sucrose
+sukkeravhengighet
+suksess
+suksess effekt
+sult
+superclass
+superego
+superficial
+superhero
+supportive
+surfing
+surgery
+suspensjojn
+svak puls
+svangerskap
+svensk
+svexfac
+sviende hud
+swebapps
+swedish
+sykehus
+sykemelding
+symmetri
+sympathetic
+syn
+synkope
+synlig
+synsendring
+synstap
+synsvinkel
+synthetic iron oxide
+syre
+syrlig
+system active
+system repair disk
+system reserved
+system settings
+system volume
+systematikk
+systemtatisk
+systemutvikling
+syting
+t-lymfocyttene
+tabber
+tabilitet
+tablet
+tactful
+tag
+takknemmelig
+takykardi
+taleforstyrrelse
+taleforstyrrelser
+talented
+taleproblemer
+talking
+tall
+tang
+tankeleser
+tannbleking
+tannemelaje
+tannhull
+tannlege
+tare
+tarmgass
+tarmslimhinne
+tarmsykdom
+tarmtott
+tarmtottene
+tarmvev
+taste
+tatovering
+tcl
+tdp
+team-builder
+team player
+teamwork
+teamworker
+teater
+technological
+tegretol
+teknisk support
+telefon
+telefonnummer
+temperament type
+tender-mindedness
+tenking
+terapi
+termogenese
+termperament
+termperamentsfull
+terpenoid
+terrier
+terror
+testende
+testosteron
+tetracycliner
+tetrapod
+tetrodotoxin
+tettsittende
+thalamus
+the calorie myth
+theme
+thermal-design-power
+thorne
+thought
+thoughts
+thread
+thyreoidea
+thyreotoksikose
+tidsbruk
+tidsfrist
+tilfeldig
+tilgivelse
+tilgivende
+tillitsverdig
+tilrettelegging
+tilstand
+tiltak
+tilvendt
+timeglass
+tio2
+titania
+titanium
+titanium oxide
+titanium white
+tittel
+tjeneste
+to-the-point
+to thepoint
+tobakk
+tobramycin
+tobrex depot
+toksisk
+toksisk reaksjon
+tone
+toneleie
+tonofilament
+toxic shock syndrome
+trailblazer
+trakassering
+tran
+trans fat
+transfusjon
+transplantasjon
+transport protein
+transposon
+traume
+traumer
+trekantblikket
+trening effekt
+trigeminusnevralgi
+triglyceride
+triiron tetraoxide
+trist
+triterpene
+trivsel
+troende
+trolling
+troubleshooter
+trussel
+tsh
+tuberkulose
+tulbulent
+tumor
+tungpustethet
+tunnelsyn
+turn-off
+turth teller
+tv-serie
+tvetydig
+tvillingstudie
+twitching
+tydelig
+tykk hud
+tynntarm
+tynntarmen
+type-a-ldl
+type-b-ldl
+type 1
+type 2
+type 5
+type 6
+type 7
+type 9
+type a
+type indicator
+u-verdi
+ubevisst
+ubevissthet
+uefi
+uegoistisk
+uengasjerende
+uengasjert
+uenighet
+ufokusert
+uforberedt
+uformell
+uforutsigbar
+ufrivillig
+ufunksjonell
+uintellektuell
+uinteressert
+uio
+ukonkret
+ukonservativ
+ukontroversielt
+ulempe
+ulemper
+ullman
+ulogisk
+ulojal
+ulykkelig
+umettet fett
+unanticipated
+underdanighet
+underhold
+undervisning
+unhappy
+universal ancestor
+universally
+universitet
+unkindness
+unstructured
+uomtenksom
+uopplagt
+uoppriktig
+upraktisk
+uproduktiv
+urban
+urban overload
+ure
+urealistisk
+urease
+uredd
+urelevant
+ureliabel
+uric acid
+uriktig
+urination
+urinstoff lite
+urobilinogen
+uromantisk
+urticaria
+urutinert
+usb
+uselvisk
+usensitiv
+user base
+uspirituell
+usympatisk
+usystematisk
+utbrudd
+utekatt
+utenomvanlig
+utholden
+utholdende
+utholdenhet
+utilitarian
+utilpasshet
+utleie
+utryddelse
+utseende
+utsette
+utsettelse
+uttrykk
+uttrykksfull
+utviklene
+utviklingspsykologi
+uvane
+uvant
+uvillig
+v8-gts
+vadim andreev
+val met
+val val
+valid
+validity
+value system
+values
+vanity
+vanlig havre
+varelager
+varianse
+variant
+variasjonsmotivert
+varm hud
+varmeisolasjon
+vasopressin
+vasovagalsyncope
+vedtekt
+vegeatativ
+vegetable oil
+vegetasjon
+veksthormon
+vektoranalyse
+venneliste
+venners venner
+vennlighet
+vennskapelig
+verdier
+verdighet
+verdipapir
+verdsettelse
+vianett
+video
+vifte
+vill
+virtual adress space
+virtual memory
+vis
+vital
+vitality
+vitamin a
+vitamin d
+vittig
+vokabular
+voksen
+vold
+volunteering
+vulnerability
+vulnerable
+walnut
+wap
+warm
+warrior
+wealth
+web
+website
+weight
+well-being
+western culture
+what
+wheatpaste
+whey
+whisker
+whitening
+whole grains
+wiki
+wikipedia
+william goldman
+windows live mail
+windows phone
+winre
+wire
+wireless lan
+wisdom
+wise fool
+wismuthoxichlorid
+wit
+withdrawal
+withholding
+witholding
+witness
+wizard
+wnic
+woman
+word
+word hard
+workaholic
+working memory
+workoholic
+workout
+worried
+wrinkle
+xgeva
+yeast extract
+yoga
+yolo
+youtube
+yrkesfag
+yrkestolthet
+ytelse
+zimbardo
+zinc
+zinc flowers
+zinc ion
+zinc white
+zinci oxidum
+zincum oxidatum
+zinkoxid
+zno
+zong
+zoologi
+zopiclone
+zygote

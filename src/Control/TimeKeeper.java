@@ -2,15 +2,15 @@ package Control;
 
 import java.awt.Graphics;
 
-public class TimeKeeper implements Runnable{
+class TimeKeeper implements Runnable{
 
-	Controller	Class_Controller;
+	private final Controller	Class_Controller;
 	int			i			= 0;
 
-	boolean		threadSuspended;
-	Thread		t			= null;
-	int			Interval	= 0;
-	int			WaitFor		= 0;
+	private boolean		threadSuspended;
+	private Thread		t			= null;
+	private int			Interval	= 0;
+	private int			WaitFor		= 0;
 
 	public TimeKeeper( Controller Class_Controller, int Interval ) {
 		//System.out.println("TimeKeeper created");
@@ -22,20 +22,19 @@ public class TimeKeeper implements Runnable{
 	}
 
 	public void Startup() {
-		//System.out.println("TimeKeeper started");
 
 		start();
 	}
 
 	public void init() {
-		//System.out.println("TimeKeeper init");
+
 	}
 
 	public void destroy() {
 	}
 
-	public void start() {
-		//System.out.println("TimeKeeper start");
+	void start() {
+
 		if ( t == null ) {
 			t = new Thread( this );
 			threadSuspended = false;
@@ -57,29 +56,28 @@ public class TimeKeeper implements Runnable{
 	}
 
 	public void run() {
-		//System.out.println("TimeKeeper run");
+
 		try {
 			while ( true ) {
-				//System.out.println("TimeKeeper A "+System.currentTimeMillis());
+
 				WaitFor--;
 				if ( WaitFor <= 0 ) {
 					Class_Controller.TimeTick( "Timekeeper" );
 					WaitFor = Interval;
-					//System.out.println("TimeKeeper B "+System.currentTimeMillis());
+
 				}
 
 				if ( threadSuspended ) {
 
 					synchronized ( this ) {
 						while ( threadSuspended ) {
-							//System.out.println("TimeKeeper C "+System.currentTimeMillis());
+
 							Class_Controller.TimeTick( "Timekeeper" );
 							wait();
 						}
 					}
 				}
-				//System.out.println("TimeKeeper D "+System.currentTimeMillis());
-				//Class_Controller.TimeTick( "Timekeeper" );
+
 				t.sleep( Interval ); // interval given in milliseconds
 			}
 		}

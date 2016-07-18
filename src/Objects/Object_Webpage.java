@@ -1,68 +1,69 @@
+
 package Objects;
 
 import java.net.URL;
+public class Object_Webpage {
 
-public class Object_Webpage{
+    private final URL Adresse;
 
-	URL				Adresse;
-	int				LinkedRelationValue;
-	int				SelfRelationValue;
-	boolean			Searched	= false;
-	boolean			Saved		= false;
+    private int LinkedRelationValue;
 
-	public String	SearchPhrase;
-	public String	Extract		= "";
+    private int SelfRelationValue;
 
-	public Object_Webpage( URL Adresse, int LinkedRelationValue, int SelfRelationValue ) {
-		this.Adresse = Adresse;
-		this.LinkedRelationValue = LinkedRelationValue;
-		this.SelfRelationValue = SelfRelationValue;
-	}
+    private boolean Searched = false;
 
-	public URL Get_URL() {
-		return Adresse;
-	}
+    boolean Saved = false;
 
-	public int Get_LinkedRelationValue() {
-		return LinkedRelationValue;
-	}
+    public String SearchPhrase;
 
-	public boolean Get_Searched() {
-		return Searched;
-	}
+    public Object_Webpage(URL Adresse, int LinkedRelationValue, int SelfRelationValue) {
+	this.Adresse = Adresse;
+	this.LinkedRelationValue = LinkedRelationValue;
+	this.SelfRelationValue = SelfRelationValue;
+    }
 
-	public int Get_SelfRelationValue() {
-		return SelfRelationValue;
-	}
+    public URL Get_URL() {
+	return Adresse;
+    }
 
-	public void Set_LinkedRelationValue( int value ) {
-		LinkedRelationValue = value;
-	}
+    public int Get_LinkedRelationValue() {
+	return LinkedRelationValue;
+    }
 
-	public void Set_Searched() {
-		//System.out.println( this.getClass().toString() + " Set_Searched " + this.toString() );
-		Searched = true;
-	}
+    boolean Get_Searched() {
+	return Searched;
+    }
 
-	public void Set_SearchFailed() {
-		//System.out.println( this.getClass().toString() + " Set_SearchFailed " + this.toString() );
-		Searched = false;
-	}
+    public int Get_SelfRelationValue() {
+	return SelfRelationValue;
+    }
 
-	public void Set_SelfRelationValue( int value ) {
-		SelfRelationValue = value;
-	}
+    public void Set_LinkedRelationValue(int value) {
+	LinkedRelationValue = value;
+    }
 
-	public String Get_Extract() {
-		return Extract;
-	}
+    public void Set_Searched() {
+	Searched = true;
+    }
 
-	public void SetSaved( boolean b ) {
-		Saved = true;
-	}
+    public void Set_SearchFailed() {
+	Searched = false;
+    }
 
-	public boolean GetSaved() {
-		return Saved;
-	}
+    public void Set_SelfRelationValue(int value, String source) {
+	SelfRelationValue = value;
+    }
 
+    public String Get_Extract() {
+        String extract = "";
+        return extract;
+    }
+
+    public void SetSaved() {
+	Saved = true;
+    }
+
+    public boolean GetSaved() {
+	return Saved;
+    }
 }

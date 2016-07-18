@@ -18,30 +18,25 @@ import Objects.Object_Webpage;
 
 public class Thread_PhraseSearcher extends Thread_Searcher{
 
-	Controller			Class_Controller;
+	private final Controller			Class_Controller;
 
-	Object_Webpage		LinkToCheck;
+	private Object_Webpage		LinkToCheck;
 	long				ThreadstartTime	= System.currentTimeMillis();
 
-	String				phrase;
-	Thread_TimeKeeper	Timer;
-	StringBuffer		DataImported	= new StringBuffer();
+    Thread_TimeKeeper	Timer;
+	private final StringBuffer		DataImported	= new StringBuffer();
 
-	int					SaveValue		= 0;
+	private int					SaveValue		= 0;
 
 	public Thread_PhraseSearcher( Controller Class_Controller, Object_Ord Phrase ) {
 		//System.out.println( this.getClass().toString() + " started" );
 		this.Class_Controller = Class_Controller;
-		this.phrase = Phrase.Ordet;
+        String phrase = Phrase.Ordet;
 		URL Adresse;
 		try {
 			Adresse = new URL( "https://www.google.no/search?q=testing&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&channel=sb&gfe_rd=cr&ei=3jMMVJ62J5K-wAO21YDgBQ" );
 			this.LinkToCheck = new Object_Webpage( Adresse, 2, 1 );
 
-			long TidA = System.currentTimeMillis();
-
-			long TidB = System.currentTimeMillis();
-			long ThreadendTime = System.currentTimeMillis();
 		}
 		catch ( MalformedURLException e ) {
 			Class_Controller.CastErrors( e );
@@ -55,7 +50,7 @@ public class Thread_PhraseSearcher extends Thread_Searcher{
 	}
 
 	private void Search() {
-		//System.out.println( this.getClass().toString() + " Search started" );
+
 		try {
 			URL url = LinkToCheck.Get_URL();
 
@@ -76,11 +71,11 @@ public class Thread_PhraseSearcher extends Thread_Searcher{
 
 		}
 		catch ( FileNotFoundException T ) {
-			LinkToCheck.Set_SelfRelationValue( 0 );
+			LinkToCheck.Set_SelfRelationValue( 0, "Search" );
 
 		}
 		catch ( UnknownHostException T ) {
-			LinkToCheck.Set_SelfRelationValue( 0 );
+			LinkToCheck.Set_SelfRelationValue( 0, "Search" );
 
 		}
 		catch ( IOException T ) {
@@ -92,30 +87,29 @@ public class Thread_PhraseSearcher extends Thread_Searcher{
 			}
 		}
 		catch ( IllegalArgumentException T ) {
-			LinkToCheck.Set_SelfRelationValue( 0 );
+			LinkToCheck.Set_SelfRelationValue( 0, "Search" );
 
 		}
 		catch ( Exception T ) {
 			Class_Controller.CastErrors( T );
-			LinkToCheck.Set_SelfRelationValue( 0 );
+			LinkToCheck.Set_SelfRelationValue( 0, "Search" );
 		}
 
 	}
 
 	private void ScanStrings( StringBuffer buffer ) {
-		//System.out.println( this.getClass().toString() + " ScanStrings started" );
+
 		long StartTime = System.currentTimeMillis();
 		String Buffer = buffer.toString().toLowerCase();
 
 		try {
 			FindRelationValue( Buffer );
-			LinkToCheck.Set_SelfRelationValue( RelationValue );
+			LinkToCheck.Set_SelfRelationValue( RelationValue, "ScanStrings" );
 
 			Thread thread = new Thread_URLFinder( Class_Controller, Buffer, this.getThread_Searcher(), LinkToCheck.Get_URL().toString() );
 			thread.start();
 
 			long EndTime = System.currentTimeMillis();
-			//System.out.println( System.currentTimeMillis() + " Web page relation value updated: " + LinkToCheck.Get_URL().toString() + " value=" + LinkToCheck.Get_SelfRelationValue() + " Time (ms)=" + (EndTime - StartTime) );
 			if ( RelationValue > Class_Controller.InterestBorder ) {
 				System.out.println( System.currentTimeMillis() + " ---> Check out " + LinkToCheck.Get_URL().toString() + " Score: " + LinkToCheck.Get_SelfRelationValue() + " Time (ms) : " + (EndTime - StartTime) );
 				FindSaveValue( Buffer );
@@ -133,8 +127,7 @@ public class Thread_PhraseSearcher extends Thread_Searcher{
 
 	}
 
-	public int countOccurrences( String haystack, String needle ) {
-		//System.out.println( this.getClass().toString() + " countOccurrences started" );
+	int countOccurrences(String haystack, String needle) {
 
 		int count = 0;
 		int lastIndex = haystack.indexOf( needle, 0 );
@@ -152,7 +145,7 @@ public class Thread_PhraseSearcher extends Thread_Searcher{
 	}
 
 	private void FindRelationValue( String Buffer ) {
-		//System.out.println( this.getClass().toString() + " FindRelationValue started" );
+
 		try {
 			RelationValue = 0;
 			Object_Ord[] TempOrdbok = this.Class_Controller.GetOrdliste();
@@ -184,7 +177,7 @@ public class Thread_PhraseSearcher extends Thread_Searcher{
 	}
 
 	private void FindSaveValue( String Buffer ) {
-		//System.out.println( this.getClass().toString() + " FindSaveValue started" );
+
 		try {
 			SaveValue = 0;
 			Object_Ord[] TempOrdbok = this.Class_Controller.GetOrdliste();
@@ -215,13 +208,12 @@ public class Thread_PhraseSearcher extends Thread_Searcher{
 	}
 
 	private void SaveToFile() {
-		//System.out.println( this.getClass().toString() + " SaveToFile started" );
+
 		try {
 
 			String Filnavn = "URLsAppendfile.txt";
 			File filen;
-			;
-			filen = new File( Filnavn );
+            filen = new File( Filnavn );
 			if ( !filen.exists() ) {
 				filen.createNewFile();
 			}

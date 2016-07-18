@@ -2,12 +2,12 @@ package Threads;
 
 import java.net.HttpURLConnection;
 
-public class Thread_Searcher extends Thread{
+class Thread_Searcher extends Thread{
 
-	HttpURLConnection	connection;
+	private HttpURLConnection	connection;
 	int					RelationValue	= 0;
 
-	public Thread_Searcher getThread_Searcher() {
+	Thread_Searcher getThread_Searcher() {
 		return this;
 	}
 

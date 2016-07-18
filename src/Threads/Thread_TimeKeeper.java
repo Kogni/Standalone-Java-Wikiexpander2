@@ -1,23 +1,22 @@
 package Threads;
 
-public class Thread_TimeKeeper implements Runnable{
+class Thread_TimeKeeper implements Runnable{
 
-	Thread_Searcher	Owner;
+	private final Thread_Searcher	Owner;
 
-	boolean			threadSuspended;
-	Thread			t			= null;
+	private boolean			threadSuspended;
+	private Thread			t			= null;
 	//int i = 0;
 	int				Interval	= 999;
 
 	public Thread_TimeKeeper( Thread_Searcher thread_Searcher ) {
-		//System.out.println("TimeKeeper created");
+
 		this.Owner = thread_Searcher;
 
 		start();
 	}
 
 	public void Startup() {
-		//System.out.println("TimeKeeper started");
 
 	}
 
@@ -52,11 +51,7 @@ public class Thread_TimeKeeper implements Runnable{
 
 		try {
 			while ( true ) {
-				//System.out.println("++i");
-				//++i;
-				//if ( i == 10 ) {
-				//   i = 0;
-				//}
+
 				if ( threadSuspended ) {
 					synchronized ( this ) {
 						while ( threadSuspended ) {

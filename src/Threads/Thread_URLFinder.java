@@ -4,21 +4,19 @@ import java.util.StringTokenizer;
 
 import Control.Controller;
 
-public class Thread_URLFinder extends Thread{
+class Thread_URLFinder extends Thread{
 
-	Controller		Class_Controller;
-	Thread_Searcher	Owner;
+	private final Controller		Class_Controller;
+	private final Thread_Searcher	Owner;
 	long			ThreadstartTime	= System.currentTimeMillis();
-	String			Data;
-	String			URLsource;
+	private final String			Data;
 
-	public Thread_URLFinder( Controller Class_Controller, String Data, Thread_Searcher thread_Searcher, String URLsource ) {
-		//System.out.println( this.getClass().toString() + " started");
+    public Thread_URLFinder( Controller Class_Controller, String Data, Thread_Searcher thread_Searcher, String URLsource ) {
 
 		this.Class_Controller = Class_Controller;
 		this.Owner = thread_Searcher;
 		this.Data = Data;
-		this.URLsource = URLsource;
+        String URLsource1 = URLsource;
 		try {
 			//run();
 		}
@@ -28,7 +26,7 @@ public class Thread_URLFinder extends Thread{
 	}
 
 	public void run() {
-		//System.out.println( this.getClass().toString() + " run started" );
+
 		try {
 			SplitLine1( Data );
 
@@ -40,94 +38,26 @@ public class Thread_URLFinder extends Thread{
 	}
 
 	private void SplitLine1( String Pagecontent ) {
-		//System.out.println( this.getClass().toString() + " SplitLine1 started" );
+
 		StringTokenizer token = new StringTokenizer( Pagecontent );
-		int count = 0;
+
 		String Frase;
 		while ( token.hasMoreTokens() ) {
 			Frase = token.nextToken(); //<- Henter 1 og 1 string fra pagecontent
 			Frase = OnlyURLS( Frase ); //<-sletter strings som ikke inneholder noen url, og returnerer f.o.m http dersom stringen inneholder en url
-			Frase = CleanRightofURL( Frase ); // <-Sletter alt på høyresiden av Frase, som ikke er en del av url.
+			Frase = CleanRightofURL( Frase ); // <-Sletter alt pï¿½ hï¿½yresiden av Frase, som ikke er en del av url.
 			Frase = OnlyURLS( Frase );
-			if ( Frase.equals( "" ) == false ) { //<- betyr at Frase inneholder en url
-				count++;
+			if (!Frase.equals("")) { //<- betyr at Frase inneholder en url
 
 				this.Class_Controller.SaveURL( Frase, "Thread searching", Owner.RelationValue );
 
 			}
 		}
-		//System.out.println( this.getClass().toString() + " SplitLine1 finished. Links found=" + count );
-	}
 
-	private void SplitLine2( String Line ) {
-		//System.out.println( this.getClass().toString() + " SplitLine2 started" );
-		StringTokenizer token = new StringTokenizer( Line );
-		int count = 0;
-		while ( token.hasMoreTokens() ) {
-
-			Line = token.nextToken();
-			Line = OnlyURLS( Line );
-			Line = CleanRightofURL( Line );
-			if ( Line.equals( "" ) == false ) {
-				count++;
-				System.out.println( "SplitLine2: " + Line + " splits: " + (count - 1) + " " + this.getName() );
-			}
-
-		}
-		//System.out.println( this.getClass().toString() + " SplitLine2 finished" );
-	}
-
-	private String CleanHTML( String source ) {
-		//System.out.println( this.getClass().toString() + " CleanHTML started" );
-		source = replaceAll( source, "Ã¥", "å" );
-		source = replaceAll( source, "Ã¸", "ø" );
-		source = replaceAll( source, "<p>", "" );
-		source = replaceAll( source, "</p>", "" );
-		source = replaceAll( source, "<strong>", "" );
-		source = replaceAll( source, "</strong>", "" );
-		source = replaceAll( source, "<br>", "" );
-		source = replaceAll( source, "</br>", "" );
-		source = replaceAll( source, "<br", "" );
-		source = replaceAll( source, "<html>", "" );
-		source = replaceAll( source, "</html>", "" );
-		source = replaceAll( source, "<body>", "" );
-		source = replaceAll( source, "</body>", "" );
-		source = replaceAll( source, "src=", "" );
-		source = replaceAll( source, "<script>", "" );
-		source = replaceAll( source, "</script>", "" );
-		source = replaceAll( source, "xmlns=", "" );
-		source = replaceAll( source, "profile=", "" );
-		source = replaceAll( source, "href=", "" );
-		source = replaceAll( source, "content=", "" );
-		source = replaceAll( source, "action=", "" );
-		source = replaceAll( source, "value=", "" );
-
-		source = replaceAll( source, "/>", "" );
-		source = replaceAll( source, ">", "" );
-		source = replaceAll( source, "'", "" );
-		source = replaceAll( source, "\"", "" );
-		source = replaceAll( source, ")", "" );
-
-		return source;
-	}
-
-	private String replaceAll( String source, String toReplace, String replacement ) {
-		//System.out.println( this.getClass().toString() + " replaceAll started" );
-		int idx = source.lastIndexOf( toReplace );
-		if ( idx != -1 ) {
-			StringBuffer ret = new StringBuffer( source );
-			ret.replace( idx, idx + toReplace.length(), replacement );
-			while ( (idx = source.lastIndexOf( toReplace, idx - 1 )) != -1 ) {
-				ret.replace( idx, idx + toReplace.length(), replacement );
-			}
-			source = ret.toString();
-		}
-
-		return source;
 	}
 
 	private String OnlyURLS( String source ) {
-		//System.out.println( this.getClass().toString() + " OnlyURLS started. source=" + source );
+
 		int idx = source.indexOf( "http://" );
 		if ( idx == -1 ) {
 			return "";
@@ -136,7 +66,8 @@ public class Thread_URLFinder extends Thread{
 			String Sub = source.substring( idx, source.length() );
 			Sub = CleanRightofURL( Sub );
 			Sub = IgnoreURLS( Sub );
-			return Sub + " ";
+			return Sub
+					+ " ";
 		}
 	}
 
@@ -427,7 +358,13 @@ public class Thread_URLFinder extends Thread{
 	}
 
 	private String CleanRightofURL( String source ) {
-		//System.out.println( this.getClass().toString() + " CleanRightofURL started" );
+
+		if ( source.indexOf( ":http" ) > -1 ) {
+
+			source = source.substring( 0, source.indexOf( ":http" ) );
+
+		}
+
 		if ( source.indexOf( ";" ) == -1 ) {
 		}
 		else {

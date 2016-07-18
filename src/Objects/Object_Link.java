@@ -2,15 +2,14 @@ package Objects;
 
 import java.net.URL;
 
-public class Object_Link {
-	
-	URL url;
-	boolean SearchedForLinks = false;
-	public int relationValue = 0;
+class Object_Link{
 
-	public Object_Link( URL url, int relationValue ) {
+	private final URL			url;
+	private boolean		SearchedForLinks	= false;
+
+    public Object_Link( URL url, int relationValue ) {
 		this.url = url;
-		this.relationValue = relationValue;
+        int relationValue1 = relationValue;
 	}
 
 	public URL GetURL() {
@@ -21,9 +20,9 @@ public class Object_Link {
 		return SearchedForLinks;
 	}
 
-	public void SetSearched(boolean b) {
-		//System.out.println( "setter searched til "+b );
+	public void SetSearched( boolean b ) {
+
 		SearchedForLinks = true;
 	}
-	
+
 }
